@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f11d8940.js",
-    "static/js/787.13f75d25.chunk.js": "/static/js/787.13f75d25.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f11d8940.js.map": "/static/js/main.f11d8940.js.map",
-    "787.13f75d25.chunk.js.map": "/static/js/787.13f75d25.chunk.js.map"
+    "main.css": "/mentoria-actions-react/static/css/main.073c9b0a.css",
+    "main.js": "/mentoria-actions-react/static/js/main.e323b44a.js",
+    "static/js/787.13f75d25.chunk.js": "/mentoria-actions-react/static/js/787.13f75d25.chunk.js",
+    "static/media/logo.svg": "/mentoria-actions-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mentoria-actions-react/index.html",
+    "main.073c9b0a.css.map": "/mentoria-actions-react/static/css/main.073c9b0a.css.map",
+    "main.e323b44a.js.map": "/mentoria-actions-react/static/js/main.e323b44a.js.map",
+    "787.13f75d25.chunk.js.map": "/mentoria-actions-react/static/js/787.13f75d25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f11d8940.js"
+    "static/js/main.e323b44a.js"
   ]
 }
